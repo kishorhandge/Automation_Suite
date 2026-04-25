@@ -1,0 +1,39 @@
+--------------------------------------------------
+SMART DIRECTORY AUTOMATION LOG
+--------------------------------------------------
+Start Time : Sun Mar 15 08:56:32 2026
+Directory  : C:\Users\vidya kakade\Desktop\TestProject
+
+Total Files Scanned : 10
+
+--------------------------------------------------
+Duplicate Files Found
+--------------------------------------------------
+C:\Users\vidya kakade\Desktop\TestProject\A.log.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (2).txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (3).txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document.txt
+
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (2) - Copy - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (2) - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (3) - Copy - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (4) - Copy - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (5) - Copy - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (6) - Copy - Copy.log.txt
+
+
+--------------------------------------------------
+Deleted Files
+--------------------------------------------------
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (2).txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (3).txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (2) - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (3) - Copy - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (4) - Copy - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (5) - Copy - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (6) - Copy - Copy.log.txt
+
+Total Deleted Files : 8
+End Time : Sun Mar 15 08:56:32 2026
+--------------------------------------------------

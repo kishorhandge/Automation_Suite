@@ -1,0 +1,29 @@
+--------------------------------------------------
+SMART DIRECTORY AUTOMATION LOG
+--------------------------------------------------
+Start Time : Sun Mar 15 00:59:49 2026
+Directory  : C:\Users\vidya kakade\Desktop\TestProject
+
+Total Files Scanned : 5
+
+--------------------------------------------------
+Duplicate Files Found
+--------------------------------------------------
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (2) - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (2).txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (3) - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (4) - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (5) - Copy.txt
+
+
+--------------------------------------------------
+Deleted Files
+--------------------------------------------------
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (2).txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (3) - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (4) - Copy.txt
+C:\Users\vidya kakade\Desktop\TestProject\New Text Document (5) - Copy.txt
+
+Total Deleted Files : 4
+End Time : Sun Mar 15 00:59:49 2026
+--------------------------------------------------

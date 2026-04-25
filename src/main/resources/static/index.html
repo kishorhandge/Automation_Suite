@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Automation Dashboard</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+        <h1>System Automation Suite</h1>
+
+        <div class="container">
+
+            <!-- --------------------------------------------------------------- -->
+            <!-- Disk Sanitizer -->
+            <!-- --------------------------------------------------------------- -->
+            <div class="card">
+
+                <h2>Disk Sanitizer</h2>
+
+                <label>Directory Path</label>
+                <input id="dupPath" placeholder="C:/Users/Desktop">
+
+                <div class="buttons">
+                    <button onclick="startDuplicate()">Start</button>
+                    <button onclick="stopDuplicate()">Stop</button>
+                </div>
+
+                <p>Status: <span id="dupStatus">Idle</span></p>
+
+                <div class="console" id="dupConsole"></div>
+
+            </div>
+
+            <!-- --------------------------------------------------------------- -->
+            <!-- Data Shield Backup -->
+            <!-- --------------------------------------------------------------- -->
+            <div class="card">
+
+                <h2>Data Shield Backup</h2>
+
+                <label>Interval (seconds)</label>
+                <input id="backupInterval" placeholder="10">
+
+                <label>Source Folder</label>
+                <input id="backupSource" placeholder="C:/Data">
+
+                <div class="buttons">
+                    <button onclick="startBackup()">Start</button>
+                    <button onclick="stopBackup()">Stop</button>
+                </div>
+
+                <p>Status: <span id="backupStatus">Idle</span></p>
+
+                <div class="console" id="backupConsole"></div>
+
+            </div>
+
+            <!-- --------------------------------------------------------------- -->
+            <!-- Process Surveillance -->
+            <!-- --------------------------------------------------------------- -->
+            <div class="card">
+
+                <h2>Process Surveillance</h2>
+
+                <label>Interval (minutes)</label>
+                <input id="monInterval" placeholder="5">
+
+                <label>Log Folder</label>
+                <input id="monFolder" placeholder="Logs">
+
+                <div class="buttons">
+                    <button onclick="startMonitor()">Start</button>
+                    <button onclick="stopMonitor()">Stop</button>
+                </div>
+
+                <p>Status: <span id="monStatus">Idle</span></p>
+
+                <div class="console" id="monConsole"></div>
+
+            </div>
+
+            <!-- --------------------------------------------------------------- -->
+            <!-- Temporary File Cleaner -->
+            <!-- --------------------------------------------------------------- -->
+            <div class="card">
+
+                <h2>Temporary File Cleaner</h2>
+
+                <label>Directory Path</label>
+                <input id="tempPath" placeholder="C:/Users/Desktop">
+
+                <div class="buttons">
+                    <button onclick="startTempCleaner()">Start</button>
+                    <button onclick="stopTempCleaner()">Stop</button>
+                </div>
+
+                <p>Status: <span id="tempStatus">Idle</span></p>
+
+                <div class="console" id="tempConsole"></div>
+
+            </div>
+
+        </div>
+
+        <script src="script.js"></script>
+
+    </body>
+</html>
